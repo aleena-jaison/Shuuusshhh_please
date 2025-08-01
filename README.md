@@ -1,47 +1,73 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# I said Shhuuuussshhh 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
-
-
+### Team Name: Hyphen
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Aleena Jaison - LBS Institute of Technology for Women, Poojapura
+  
 
 ### Project Description
-[2-3 lines about what your project does]
+This is a mobile app to help pavam teachers to measure the noise level and give the class a "Shush Score". It uses the phone's microphone to calculate the same. The quieter the class, the higher the score. For fun, there's a big button that plays a loud "shhhhh" sound that can be played any no. of times. Also an addo, all the classes in a school/ college can compete on a leaderboard, and lets see who wins the "Golden Shhuushh" trophy.
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Isn't too much tiring for teachers to say "Shush" every single time when we make some behalam? And how much "Shush" we sahakarikaled for? HEADACHE ahnee 
+
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+App ind, picture abhi cool hei!
 
+
+### Features
+- **Real-time Noise Monitoring**: Uses device microphone to monitor ambient noise levels
+- **Silence Scoring System**: Tracks and scores classroom quietness over time
+- **Interactive Shush Button**: Play a "shush" sound effect to remind students to be quiet
+- **Class Leaderboard**: Compare silence scores between different classes
+- **Provider State Management**: Efficient state management using the Provider package
+
+  
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- `flutter`: SDK framework
+- `provider`: State management
+- `noise_meter`: Microphone noise level monitoring
+- `audioplayers`: Audio playback for shush sound effects
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
+### Prerequisites
+- Flutter SDK installed
+- Android/iOS device or emulator with microphone access
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/aleena-jaison/Shuuusshhh_please.git
+   cd flutter_application_1
+   ```
+
+2. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
 
 # Run
-[commands]
+ ```bash
+   flutter run
+   ```
+
+
+### Permissions
+The app requires microphone permissions to monitor noise levels. Make sure to grant microphone access when prompted.
+
+
 
 ### Project Documentation
 For Software:
@@ -60,14 +86,7 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Components](Add photo of your components here)
