@@ -11,11 +11,13 @@
   
 
 ### Project Description
-This is a mobile app to help pavam teachers to measure the noise level and give the class a "Shush Score". It uses the phone's microphone to calculate the same. The quieter the class, the higher the score. For fun, there's a big button that plays a loud "shhhhh" sound that can be played any no. of times. Also an addo, all the classes in a school/ college can compete on a leaderboard, and lets see who wins the "Golden Shhuushh" trophy.
+You know how teacher says "Class, stay silent. It should be pin drop silence". And that is what we are aiming for !!
+
+This is a mobile app to help pavam & strict teachers to measure the noise level and give the class a "Shush Score" with the ultimum being **"PIN DROP SILENCE**. It uses the phone's microphone to calculate the same. The quieter the class, the higher the score. For fun, there's a big button that plays a loud "shhhhh" sound that can be played any no. of times. Also an addo, all the classes in a school/ college can compete on a leaderboard, and lets see who wins the "Golden Shhuushh" trophy. 
 
 
 ### The Problem (that doesn't exist)
-Isn't too much tiring for teachers to say "Shush" every single time when we make some behalam? And how much "Shush" we sahakarikaled for? HEADACHE ahnee 
+Isn't too much tiring for teachers to say "Shush", "Mindathirik pillere", "ithentha chanthayo" etc etc... every single time when we make some behalam? And how much "Shush" we sahakarikaled for? HEADACHE ahnee 
 
 
 ### The Solution (that nobody asked for)
@@ -27,7 +29,7 @@ App ind, picture abhi cool hei!
 - **Silence Scoring System**: Tracks and scores classroom quietness over time
 - **Interactive Shush Button**: Play a "shush" sound effect to remind students to be quiet
 - **Class Leaderboard**: Compare silence scores between different classes
-- **Provider State Management**: Efficient state management using the Provider package
+- **Upcoming Features** - Principal can directly send shush message through ☁️, Shush Automatio
 
   
 ## Technical Details
@@ -37,6 +39,7 @@ For Software:
 - `provider`: State management
 - `noise_meter`: Microphone noise level monitoring
 - `audioplayers`: Audio playback for shush sound effects
+- `permissions` : To maange the permission for microphone
 
 
 ### Prerequisites
@@ -50,7 +53,6 @@ For Software:
 1. Clone the repository:
    ```bash
    git clone https://github.com/aleena-jaison/Shuuusshhh_please.git
-   cd flutter_application_1
    ```
 
 2. Install dependencies:
@@ -74,13 +76,18 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![PHOTO-2025-08-02-07-20-43](https://github.com/user-attachments/assets/f42e3dfc-5f3f-4c33-8a97-c6b016fde6aa)
+THIS IS a picture of the live audio recording (HOME SCREEN)
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+
+[WhatsApp Image 2025-08-02 at 07 20 43](https://github.com/user-attachments/assets/f33b99bb-209d-4352-862e-205241845ec9)
+The leaderboard of the three demo classes that I've amde
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+The video showing the working of app.
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -90,18 +97,18 @@ For Software:
 
 # Build Photos
 ![Components](Add photo of your components here)
-*List out all components shown*
+<img width="1680" height="1034" alt="Screenshot 2025-08-02 at 7 24 16 AM" src="https://github.com/user-attachments/assets/0818db5b-3d37-454d-b3f4-39a4bcafbc17" />
+
 
 ![Build](Add photos of build process here)
 *Explain the build steps*
 
 ![Final](Add photo of final product here)
-*Explain the final build*
+Finally at the first stage this app is capable of detecting the noise and making the shush sound manually. In the next iteration It can be automated and devices like sensitive microphones will be used for "**PIN DROP SILENCE**
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://github.com/user-attachments/assets/136e8c4b-508b-4d9c-84f4-4c5d7f502498
 
 # Additional Demos
 [Add any extra demo materials/links]
