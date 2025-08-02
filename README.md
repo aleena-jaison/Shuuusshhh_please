@@ -77,13 +77,13 @@ For Software:
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
 
-<img width="540"  height="900" src="https://github.com/user-attachments/assets/a524ab3a-b869-4c1f-94b4-df5c2be95455"/>
+<img width="300"  height="800" src="https://github.com/user-attachments/assets/a524ab3a-b869-4c1f-94b4-df5c2be95455"/>
 THIS IS a picture of the live audio recording (HOME SCREEN)
 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 
-<img src="https://github.com/user-attachments/assets/f33b99bb-209d-4352-862e-205241845ec9" width="540" height="900">
+<img src="https://github.com/user-attachments/assets/f33b99bb-209d-4352-862e-205241845ec9" width="300" height="800">
 The leaderboard of the three demo classes that I've amde
 
 ![Screenshot3](Add screenshot 3 here with proper name)
