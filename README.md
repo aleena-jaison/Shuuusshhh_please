@@ -76,7 +76,8 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-<img width="1080"  height="1920" src="https://github.com/user-attachments/assets/f42e3dfc-5f3f-4c33-8a97-c6b016fde6aa"/>
+
+<img width="1080"  height="1920" src="https://github.com/user-attachments/assets/a524ab3a-b869-4c1f-94b4-df5c2be95455"/>
 THIS IS a picture of the live audio recording (HOME SCREEN)
 
 
