@@ -7,7 +7,7 @@
 ## Basic Details
 ### Team Name: Hyphen
 ### Team Members
-- Team Lead: Aleena Jaison - LBS Institute of Technology for Women, Poojapura
+- Aleena Jaison - LBS Institute of Technology for Women, Poojapura
   
 
 ### Project Description
@@ -75,49 +75,38 @@ The app requires microphone permissions to monitor noise levels. Make sure to gr
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
 
 <img width="300"  height="800" src="https://github.com/user-attachments/assets/a524ab3a-b869-4c1f-94b4-df5c2be95455"/>
 THIS IS a picture of the live audio recording (HOME SCREEN)
 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-
 <img src="https://github.com/user-attachments/assets/f33b99bb-209d-4352-862e-205241845ec9" width="300" height="800">
 The leaderboard of the three demo classes that I've amde
 
-![Screenshot3](Add screenshot 3 here with proper name)
 The video showing the working of app.
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+
 
 
 
 # Build Photos
-![Components](Add photo of your components here)
+
 <img width="1680" height="1034" alt="Screenshot 2025-08-02 at 7 24 16 AM" src="https://github.com/user-attachments/assets/0818db5b-3d37-454d-b3f4-39a4bcafbc17" />
 
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
+
 Finally at the first stage this app is capable of detecting the noise and making the shush sound manually. In the next iteration It can be automated and devices like sensitive microphones will be used for "**PIN DROP SILENCE**
 
 ### Project Demo
 # Video
 https://github.com/user-attachments/assets/136e8c4b-508b-4d9c-84f4-4c5d7f502498
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Aleena Jaison: njn ahn ellam chyte
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
