@@ -76,13 +76,13 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-![PHOTO-2025-08-02-07-20-43](https://github.com/user-attachments/assets/f42e3dfc-5f3f-4c33-8a97-c6b016fde6aa)
+<img width="1080"  height="1920" src="https://github.com/user-attachments/assets/f42e3dfc-5f3f-4c33-8a97-c6b016fde6aa"/>
 THIS IS a picture of the live audio recording (HOME SCREEN)
 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 
-[WhatsApp Image 2025-08-02 at 07 20 43](https://github.com/user-attachments/assets/f33b99bb-209d-4352-862e-205241845ec9)
+<img src="https://github.com/user-attachments/assets/f33b99bb-209d-4352-862e-205241845ec9" width="1080" height="1920">
 The leaderboard of the three demo classes that I've amde
 
 ![Screenshot3](Add screenshot 3 here with proper name)
